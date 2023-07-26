@@ -22,10 +22,4 @@ The program displays weather information according to time for the chosen date.
 - `json` for JSON parsing.
 - `datetime` for date handling.
 
-**Note:**
-The program uses a sample API endpoint for demonstration purposes. For actual usage, sign up for an API key from OpenWeatherMap.
-
-**Contributions:**
-Contributions to this project are welcome. Please submit pull requests or open issues for improvements.
-
 For more details, refer to the code files: `data.py`, `userInput.py`, `display.py`.
